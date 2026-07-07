@@ -90,7 +90,7 @@ Target Variable:
 
 | Metric            | Score       |
 | ----------------- | ----------- |
-| Training Accuracy | **100.00%** |
+| Training Accuracy | **80.00%** |
 | Testing Accuracy  | **88.96%**  |
 | Precision         | **84.91%**  |
 | Recall            | **83.33%**  |
